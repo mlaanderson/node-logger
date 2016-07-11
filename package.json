@@ -1,0 +1,23 @@
+{
+  "name": "node-logger",
+  "version": "0.0.1",
+  "description": "Quick and dirty syslog with logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaanderson/node-logger.git"
+  },
+  "keywords": [
+    "syslog",
+    "logger"
+  ],
+  "author": "Michael Anderson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlaanderson/node-logger/issues"
+  },
+  "homepage": "https://github.com/mlaanderson/node-logger#readme"
+}
